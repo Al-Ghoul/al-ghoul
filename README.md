@@ -49,7 +49,7 @@
    [<img height="48px" width="48px" alt="Linux's Icon" src="https://skillicons.dev/icons?i=linux"/>](https://www.linux.org/)
    [<img height="48px" width="48px" alt="Archlinux's Icon" src="https://skillicons.dev/icons?i=arch"/>](https://archlinux.org/)
    [<img height="48px" width="48px" alt="Nix's Icon" src="https://skillicons.dev/icons?i=nix"/>](https://nixos.org/)
-   [<img height="48px" width="48px" alt="Neovim's Icon" src="https://skillicons.dev/icons?i=neovim"/>](https://https://neovim.io//)
+   [<img height="48px" width="48px" alt="Neovim's Icon" src="https://skillicons.dev/icons?i=neovim"/>](https://neovim.io/)
    
    [<img height="48px" width="48px" alt="Github's Icon" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
    [<img height="48px" width="48px" alt="Git's Icon" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
