@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C3F744&random=false&width=435&lines=Welcome+fellos!)](https://git.io/typing-svg)
 
-*Support me on ko-fi if you like what I am doing and have some spare pennies :D*
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W3X33WD)
 <br>
 
 <div align="center" style="margin-bottom:200px">
